@@ -3,11 +3,9 @@
 ## Introduction
 This repository contains the code for Task 4, which involves tag-based augmented reality using the pyAprilTag package. The code detects an ArUco marker in an image, utilizes the camera calibration parameters obtained in Task 3 to draw a 3D cube on top of the marker, and visualizes the augmented reality from different perspectives.
 
-![View 1]('Aruco-Cube/images/aruco cube 1.jpg')
+![View 1](Aruco-Cube/images/aruco cube 1.jpg)
 ![View 2](Aruco-Cube/images/aruco cube 2.jpg)
 ![View 3](Aruco-Cube/images/aruco cube 3.jpg)
-
-
 
 ## Task 4: Tag-based Augmented Reality (5pt)
 ### Code Summary
